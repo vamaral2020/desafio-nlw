@@ -1,2 +1,2 @@
-# desafio-nlw
+# Desafio-NLW
 Primeiro desafio do nlw
